@@ -15,7 +15,7 @@ Analysis was carried out to understand trends in bicycle use from year to year, 
 5. Activate the Python virtual environment if necessary.
 6. Run Jupyter Notebook with the command `jupyter notebook`.
 7. Select the file `notebook.ipynb` from the Jupyter Notebook interface.
-8. Run each code cell by clicking the `Run` button or using the keyboard shortcut `CTRL + F9` to run all cells at once.
+8. Run each code cell by clicking the `Run` button or using the keyboard shortcut `CTRL + A` then `Shift + Enter` to run all cells at once.
 
 ### dashboard.py
 1. Open the terminal on your computer.
@@ -33,5 +33,7 @@ Analysis was carried out to understand trends in bicycle use from year to year, 
 9. Open a web browser and access the address displayed after running the above command to view the dashboard.
 
 ## Screenshoots
-![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/Screenshot%20(91).png?raw=true)
-
+![alt text](https://raw.githubusercontent.com/Zangetsu21/Bike-Sharing/main/screenshoots/Screenshot%202024-03-03%20232614.png)
+![alt text](https://raw.githubusercontent.com/Zangetsu21/Bike-Sharing/main/screenshoots/Screenshot%202024-03-03%20232624.png)
+![alt text](https://raw.githubusercontent.com/Zangetsu21/Bike-Sharing/main/screenshoots/Screenshot%202024-03-03%20232636.png)
+![alt text](https://raw.githubusercontent.com/Zangetsu21/Bike-Sharing/main/screenshoots/Screenshot%202024-03-03%20232641.png)
