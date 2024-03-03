@@ -49,7 +49,7 @@ for year in usage_by_year_month['year'].unique():
     ax.plot(data_year['month'], data_year['count'], label=f"Tahun {year+2011}")
 
 ax.set_xlabel('Bulan')
-ax.set_ylabel('Total Penggunaan Sepeda (Count)')
+ax.set_ylabel('Total Penggunaan Sepeda')
 ax.set_xticks(range(1, 13))
 ax.set_xticklabels(['Jan', 'Feb', 'Mar', 'Apr', 'Mei', 'Jun', 'Jul', 'Ags', 'Sep', 'Okt', 'Nov', 'Des'])
 ax.legend()
